@@ -1,0 +1,8 @@
+public/
+.DS_Store
+Thumbs.db
+node_modules/
+
+# Hugo cache
+.hugo_build.lock
+resources/_gen/
