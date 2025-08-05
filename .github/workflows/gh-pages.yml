@@ -1,4 +1,4 @@
-name: GitHub Pages
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
@@ -6,10 +6,11 @@ on:
       - main
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
         with:
           submodules: true
           fetch-depth: 0
@@ -20,11 +21,13 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build
+      - name: Build Hugo site
         run: hugo --minify
 
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          # デプロイ先ブランチを`main`に指定
+          publish_branch: main
