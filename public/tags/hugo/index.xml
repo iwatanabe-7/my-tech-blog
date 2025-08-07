@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on My Tech Blog</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on My Tech Blog</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 15 Jul 2025 20:58:15 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>最初の技術ブログ記事</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 15 Jul 2025 20:58:15 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>この記事では、Hugoを使って初めての技術ブログ記事を作成し、&lt;br&gt;&#xA;その基本的な設定とMarkdown記法について解説します。&lt;br&gt;&#xA;簡単なコード例も交えながら、環境構築から記事公開までの流れを紹介します。</description>
+    </item>
+  </channel>
+</rss>
