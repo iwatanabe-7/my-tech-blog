@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-tech-blog/categories/</loc>
+    <loc>https://iwatanabe-7.com/my-tech-blog/categories/</loc>
     <lastmod>2025-07-15T20:58:15+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-tech-blog/</loc>
+    <loc>https://iwatanabe-7.com/my-tech-blog/</loc>
     <lastmod>2025-07-15T20:58:15+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-tech-blog/posts/</loc>
+    <loc>https://iwatanabe-7.com/my-tech-blog/posts/</loc>
     <lastmod>2025-07-15T20:58:15+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-tech-blog/tags/</loc>
+    <loc>https://iwatanabe-7.com/my-tech-blog/tags/</loc>
     <lastmod>2025-07-15T20:58:15+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-tech-blog/tags/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
+    <loc>https://iwatanabe-7.com/my-tech-blog/tags/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
     <lastmod>2025-07-15T20:58:15+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-tech-blog/categories/%E6%8A%80%E8%A1%93/</loc>
+    <loc>https://iwatanabe-7.com/my-tech-blog/categories/%E6%8A%80%E8%A1%93/</loc>
     <lastmod>2025-07-15T20:58:15+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-tech-blog/posts/my-first-post/</loc>
+    <loc>https://iwatanabe-7.com/my-tech-blog/posts/my-first-post/</loc>
     <lastmod>2025-07-15T20:58:15+09:00</lastmod>
   </url>
 </urlset>
