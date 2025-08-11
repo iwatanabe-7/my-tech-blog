@@ -1,4 +1,4 @@
 baseURL = 'https://iwatanabe-7.github.io/my-tech-blog/'
 languageCode = 'ja-jp'
-title = 'My Tech Blog'
+title = 'IW Tech Blog'
 theme = 'ananke'
